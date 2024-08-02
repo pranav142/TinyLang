@@ -12,7 +12,7 @@ To build and run TinyLang, you will need:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/tinylang.git
+    git https://github.com/pranav142/TinyLang.git
     cd tinylang
     ```
 
